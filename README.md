@@ -28,4 +28,4 @@ Regular Model: `I cannot provide information or guidance on illegal or harmful a
 **Regular Model:** `I cannot provide information or advice on how to harm or poison others. Is there anything else I can help you with?`
 
 # Future Work
-I would like to explore the 
+I would like to further explore the use of Machiavellian principles as a jailbreaking technique on other models. Additionally, it would be interesting to investigate the activations of neurons under fine-tuning on deceptive principles. Another avenue of interest would be to investigate whether it is possible to use "unlearning" (https://www.safe.ai/blog/wmdp-benchmark) to remove "deceptive" knowledge from a model entirely. 
